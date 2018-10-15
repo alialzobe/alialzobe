@@ -1,8 +1,8 @@
 {"version_code":451204,"content":"
-<p>تحديث 3.60</p>
+<p>تحديث 1.40</p>
 
 
-<li>التحديث لنسخة الماركت 2.18.122</li>
+<li>التحديث لنسخة الماركت 2.18.9</li>
 <li>إمكانية السحب من اليمين إلى اليسار لإغلاق الدردشة (اضافات محمود العسكر> المزيد من الإعدادات الخيار رقم 6.22</li>
 <li>يمكن للمشرفين الان منع الاعضاء من ارسال الرسائل في المجموعات</li>
 <li>يمكنك الان تسجيل مقاطع صوتية بدون الحاجة للضغط المطول على زر تسجيل الصوت</li>
@@ -24,7 +24,7 @@
 <li>إصلاحات اخرى</li>
 
 <p>(Eid Edition)</p>
-<li> New Base Updated to 2.18.122</li>
+<li> New Base Updated to 2.18.9</li>
 <li> Swipe from left to right to exit conversations (Mod 6.22)</li>
 <li> Exclusively Improved Option for Specific/Except Contacts/Groups in Auto-Reply</li>
 <li> Improved No Need to Restart When use Privacy except for Hide Last Seen</li>
@@ -47,5 +47,5 @@
 <li> Fixed Action Bar Color, Icon Background color, Count color in Hidden Chats & Archived Chats</li>
 <li> Many Other Fixes</li>
 
-","url":"http://www.ahmadmods.com/2017/12/shwhatsapp.html"
+","url":"http://www.alzoube.site/?m=1"
 }
