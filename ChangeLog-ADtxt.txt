@@ -1,7 +1,7 @@
 {"version_code":451208,"content":"
-<p>تنبيه لتسديد الحساب</p>
+<p>تجديث 1.40</p>
 
-<li>عزيزي العميل يرجى تسديد حسابك قبل ان تخسر استظافتك</li>
+<li>test</li>
 
 ","url":"https://www.alaskar-mods.com/"
 }
